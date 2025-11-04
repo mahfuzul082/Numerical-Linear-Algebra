@@ -5,3 +5,4 @@ Codes written for the homework problems of course MTH 573: Numerical Linear Alge
 Numerical schemes include:
 - Gaussian elimination w/ partial pivoting.
 - Cholesky factorization.
+- Reduced QR factorization.

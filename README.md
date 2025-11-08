@@ -1,4 +1,5 @@
-# Numerical-Linear-Algebra
+# Numerical Linear Algebra
+Instructor: Prof. Bo Dong
 
 Codes written for the homework problems of course MTH 573: Numerical Linear Algebra.
 

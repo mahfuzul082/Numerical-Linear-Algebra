@@ -7,4 +7,4 @@ Numerical schemes include:
 - Gaussian elimination w/ partial pivoting.
 - Cholesky factorization.
 - Reduced QR factorization.
-- Least squares problem.
+- Householder reflection and solution of least squares problem.

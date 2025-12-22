@@ -8,3 +8,9 @@ Numerical schemes include:
 - Cholesky factorization.
 - Reduced QR factorization.
 - Householder reflection and solution of least squares problem.
+- Iterative methods
+-     Jacobi
+-     Gauss-Seidel
+-     GMRES
+-     Conjugate Gradient
+    
